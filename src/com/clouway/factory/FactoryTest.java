@@ -2,7 +2,7 @@ package com.clouway.factory;
 
 import org.junit.Test;
 
-import static org.junit.Assert.fail;
+import static org.junit.Assert.*;
 
 /**
  * @author raikov.krasimir@gmail.com (Krasimir Raikov)
@@ -10,7 +10,7 @@ import static org.junit.Assert.fail;
 public class FactoryTest {
 
   @Test
-  public void additionTest(){
+  public void test(){
     fail();
   }
 
